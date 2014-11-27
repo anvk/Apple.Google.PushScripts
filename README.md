@@ -29,7 +29,8 @@ var devices = [
 ];
 ```
 
-Follow this link to generate a necessary .p12 certificate from Apple. (http://appfurnace.com/2012/11/publishing-your-apps-how-to-create-a-p12-file/)
+Link to create .pem files could be found here (http://www.apptuitions.com/generate-pem-file-for-push-notification/)  
+OR follow this link to generate a necessary .p12 certificate from Apple. (http://appfurnace.com/2012/11/publishing-your-apps-how-to-create-a-p12-file/)
 
 ### How to run
 
