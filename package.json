@@ -1,0 +1,30 @@
+{
+  "name": "apple.google.pushScripts",
+  "version": "0.1.0",
+  "description": "Basic node.js scripts to send push notification to Apple and Google devices.",
+  "contributors": [
+    {
+      "name": "Alexey Novak",
+      "email": "alexey.novak.mail@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:anvk/Apple.Google.PushScripts.git"
+  },
+  "keywords": [
+    "apple",
+    "ios",
+    "google",
+    "android",
+    "node.js",
+    "push notification",
+    "push"
+  ],
+  "dependencies": {
+    "node-gcm": "^0.9.12",
+    "apn": "^1.6.2"
+  },
+  "engine": "node >= 0.10.x",
+  "license": "MIT"
+}
